@@ -1,4 +1,4 @@
-# HeyCLI 🤖 - Your AI Buddy for Daily Tasks
+9# HeyCLI 🤖 - Your AI Buddy for Daily Tasks
 
 ![HeyCLI Preview](./heycli.jpg)
 
